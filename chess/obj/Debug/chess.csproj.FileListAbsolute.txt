@@ -1,0 +1,22 @@
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\bin\Debug\chess.exe.config
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\bin\Debug\chess.exe
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\bin\Debug\chess.pdb
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.csproj.AssemblyReference.cache
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.Form1.resources
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.exe
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.pdb
+C:\Users\balca\Documents\Milan Balcanovic\chess\chess\obj\Debug\chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\bin\Debug\chess.exe.config
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\bin\Debug\chess.exe
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\bin\Debug\chess.pdb
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.csproj.AssemblyReference.cache
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.Form1.resources
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.exe
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.pdb
+C:\Users\balca\Documents\Programiranje\WinForms\chess\chess\obj\Debug\chess.csproj.SuggestedBindingRedirects.cache
